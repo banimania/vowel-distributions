@@ -148,7 +148,8 @@ int main(int argc, const char* argv[]) {
         std::cout << std::endl;
         std::cout << std::endl;
     }
-    std::cout << "-------------------------";
+    std::cout << "----------------";
+    std::cout << std::endl;
   }
 
   auto tFinal = std::chrono::high_resolution_clock::now();
